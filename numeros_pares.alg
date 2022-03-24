@@ -27,8 +27,8 @@ Inicio
      fimse
   fimpara
   
-  escreval()
-  escreval()
+  escreval
+  escreval
   escreval("QUANTIDADE DE PARES = ", pares)
 
 Fimalgoritmo

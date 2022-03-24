@@ -37,7 +37,7 @@ Inicio
    alturaMedia <- alturaTotal / n
    percentualMenores <- menores / n * 100
    
-   escreval()
+   escreval
    escreval("Altura média: ", alturaMedia:4:2)
    escreval("Pessoas com menos de 16 anos: ", percentualMenores:3:1, "%")
 
