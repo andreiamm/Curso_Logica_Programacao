@@ -3,7 +3,6 @@ Algoritmo "duracao"
 Var
 
    duracaoEmSegundos, horas, minutos, segundos: inteiro
-   
 
 Inicio
 

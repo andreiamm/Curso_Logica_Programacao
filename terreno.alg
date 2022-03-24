@@ -1,9 +1,11 @@
 Algoritmo "terreno"
 
 Var
+
    largura, comprimento, valorM2, area, preco: real
    
 Inicio
+
    escreva("Digite a largura do terreno: ")
    leia(largura)
    escreva("Digite o comprimento do terreno: ")
